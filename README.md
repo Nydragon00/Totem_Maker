@@ -1,4 +1,12 @@
-# gifMaker
-Selfies psychédéliques qui changent selon les paramètres rentrés.
+# TotemMaker
 
-Pour utiliser correctement ce code, merci de télécharger la librairie : ControlP5 sur Processing
+21.10.2019 - 25.10.2019
+
+Help by
+ - https://github.com/lydiasan 
+ - https://github.com/LaurineObriot
+
+Creating user-specific "Totems", based on the persons name, birthdate and birthmonth (in letters)
+Install ControlP5 sur Processing!
+
+Only interface input! 
