@@ -2,6 +2,9 @@
 
 21.10.2019 - 25.10.2019
 
+Original repository
+ - https://github.com/adatechschool/gifMaker
+
 Help by
  - https://github.com/lydiasan 
  - https://github.com/LaurineObriot
